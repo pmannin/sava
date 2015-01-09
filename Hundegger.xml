@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Job>
+  <AttDefs />
+  <Parts>
+    <Part PartId="1" Unit="" Width="42" Height="148" Length="493" ReqQuantity="13" FinishedQuantity="0" Name="" Comments="1" ReqLength="0" Grade="C24" Dimension="Rectangular" Time="0" Problem="0" BoardNumber="0" ValidL="yes" EjectionPoint="0" PlaningLength="0" PlaningSurface="0" User_Attribut_1="" User_Attribut_2="" User_Attribut_3="" User_Attribut_4="" User_Attribut_5="">
+      <Operations>
+        <SawCut ReferenceSide="3" CrossMeas1="0" Angle="0" Orientation="Right" LengthMeas="0" Bevel="90" CrossMeas2="0" />
+        <Bitmap ReferenceSide="4" LengthMeas="0" HorizontalAlignment="Right" Filename="" />
+        <Lap ReferenceSide="4" CrossMeas2="0" Length="0" LengthMeas="0" LengthOrientation="Left" CrossMeas1="0" Angle="90" Bevel="0" Rotation="0" SplinterFree="no" />
+        <Drilling ReferenceSide="3" LengthMeas="0" CrossMeas1="0" DrillDiam="0" CrossMeas2="0" CountersinkDiam="0" Angle="0" Bevel="0" HoleDepth="0" CountersinkDepth="0" SplinterFree="no" />
+        <TextOutput Text="NR 3072 392740:10 3/11" CrossMeas="21" LengthMeas="1698" ReferenceSide="0" TextDirection="Normal" TextAlignment="Left" TextPlacement="Center" FontSize="FSDefault" Marking="no"/>
+        <FixedOrder GroupedOperations="3"/>
+      </Operations>
+    </Part>
+  </Parts>
+  <Boards />
+</Job>
